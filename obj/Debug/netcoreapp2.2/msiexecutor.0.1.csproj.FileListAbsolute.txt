@@ -1,0 +1,10 @@
+C:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\bin\Debug\netcoreapp2.2\msiexecutor.0.1.deps.json
+C:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\bin\Debug\netcoreapp2.2\msiexecutor.0.1.runtimeconfig.json
+C:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\bin\Debug\netcoreapp2.2\msiexecutor.0.1.runtimeconfig.dev.json
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\bin\Debug\netcoreapp2.2\msiexecutor.0.1.dll
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\bin\Debug\netcoreapp2.2\msiexecutor.0.1.pdb
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\obj\Debug\netcoreapp2.2\msiexecutor.0.1.csproj.CoreCompileInputs.cache
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\obj\Debug\netcoreapp2.2\msiexecutor.0.1.AssemblyInfoInputs.cache
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\obj\Debug\netcoreapp2.2\msiexecutor.0.1.AssemblyInfo.cs
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\obj\Debug\netcoreapp2.2\msiexecutor.0.1.dll
+c:\Lokesh\WEIR\POC\msiexecutor.0.1\msiexecutor.0.1\obj\Debug\netcoreapp2.2\msiexecutor.0.1.pdb
